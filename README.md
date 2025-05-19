@@ -17,6 +17,7 @@ Este gráfico apresenta a evolução dos gastos públicos em saúde como percent
 📌 *Interpretação:* Notamos um crescimento nos anos mais críticos da pandemia (2020–2021), seguido de certa estabilização nos anos seguintes.
 
 ![Gráfico Série Temporal](grafico_temporal.png)
+![grafico_temporal](https://github.com/user-attachments/assets/06e00df7-d07c-4129-9763-7356b8a3ccb3)
 
 ---
 
@@ -27,6 +28,7 @@ Exibe a comparação entre quatro países com maiores gastos públicos em saúde
 📌 *Interpretação:* É possível identificar que alguns países já apresentavam altos investimentos antes da pandemia, enquanto outros intensificaram os gastos a partir de 2020.
 
 ![Gráfico Painel](grafico_painel.png)
+![grafico_painel](https://github.com/user-attachments/assets/3738176e-9841-4e3f-beb7-487acbd2063e)
 
 ---
 
@@ -37,3 +39,4 @@ Este gráfico foca exclusivamente no ano de 2020, ano mais crítico da pandemia,
 📌 *Interpretação:* A comparação mostra como cada país reagiu à pandemia em termos de alocação de recursos, evidenciando prioridades distintas nas políticas de saúde.
 
 ![Gráfico Corte Transversal](grafico_transversal.png)
+![grafico_corte_transversal](https://github.com/user-attachments/assets/0d5d6c1f-16d2-436b-81b2-45dfb6a4e124)
